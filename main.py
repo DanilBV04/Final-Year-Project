@@ -40,3 +40,4 @@ val_ds = tf.keras.utils.image_dataset_from_directory(
     image_size=(180, 180),
     batch_size=32
 )
+
